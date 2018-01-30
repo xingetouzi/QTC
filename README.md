@@ -1,0 +1,2 @@
+# QTC
+Quantitative Trading Camp

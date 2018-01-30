@@ -212,4 +212,5 @@ dependencies:
   - tabulate==0.8.2
 #  - tushare==1.1.3
   - win-unicode-console==0.5
+  - portfolioopt==1.0.0
 prefix: C:\ProgramData\Anaconda3\envs\qtc

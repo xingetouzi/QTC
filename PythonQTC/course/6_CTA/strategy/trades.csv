@@ -1,0 +1,3 @@
+datetime,commission,exec_id,last_price,last_quantity,order_book_id,order_id,position_effect,side,symbol,tax,trading_datetime,transaction_cost
+2015-06-01 15:00:00,399.408,1515221286,15.9,31400,000001.XSHE,1515221285,,BUY,平安银行,0,2015-06-01 15:00:00,399.408
+2015-06-01 15:00:00,159.67839999999998,1515221287,18.83,10600,600036.XSHG,1515221286,,BUY,招商银行,0,2015-06-01 15:00:00,159.67839999999998
